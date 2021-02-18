@@ -1,3 +1,5 @@
+#!/bin/bash
+echo "Hello World"
 #Apply the code, first.sh
 #!/bin/bash
 echo "Hello World DevOps"

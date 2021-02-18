@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World DevOps trg 1"
+echo "Hello World DevOps Training"
